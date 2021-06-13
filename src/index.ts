@@ -1,5 +1,5 @@
-import run from './chap5/ParserRunner';
+import run from './chap6/Runner';
 
-const main = async () => await run('./scripts/5.stone');
+const main = async () => await run('./scripts/6.stone');
 
 main();
