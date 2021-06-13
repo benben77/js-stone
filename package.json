@@ -1,0 +1,17 @@
+{
+  "name": "js-stonelang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "exec": "node ./build/index.js",
+    "inspect": "node --inspect-brk ./build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.20"
+  }
+}
