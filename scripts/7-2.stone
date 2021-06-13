@@ -1,0 +1,7 @@
+inc = fun (x) {
+    z = 5
+    fun (y) {
+        x + y + z
+    }
+}
+inc(3)(4)

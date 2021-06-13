@@ -22,11 +22,12 @@ npm run inspect // 将 "Debugger listening on" 的地址去掉 ws 用 chrome 打
 
 ## 章节
 
-- chap3：实现 Lexer (词法解析)
-- chap4：添加 ASTree 及部分子类
+- chap3: 实现 Lexer (词法解析)
+- chap4: 添加 ASTree 及部分子类
 - chap5: 添加更多 ASTree 子类(表达式/语法块)，实现语法分析
 - chap6: basic interpreter
 - chap7-1: 函数 
+- chap7-2: 闭包 
 
 ## 参考
 
