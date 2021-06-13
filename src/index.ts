@@ -1,5 +1,5 @@
-import run from './chap7/ClosureInterpreter';
+import run from './chap8/NativeInterpreter';
 
-const main = async () => await run('./scripts/7-2.stone');
+const main = async () => await run('./scripts/8.stone');
 
 main();
