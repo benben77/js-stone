@@ -6,7 +6,7 @@ const location = (t: Token): string => {
 };
 
 export class ParseException extends Error {
-  constructor(first: any, second?: any) {
+  constructor(first: string | Error | Token, second?: any) {
     if (typeof first === 'string') {
       super(first);
     } else if (first instanceof Error) {

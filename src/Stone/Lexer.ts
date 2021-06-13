@@ -80,7 +80,7 @@ export class Lexer {
 
 	}
 
-	protected addToken(lineNo: number, matched: any[]) {
+	protected addToken(lineNo: number, matched: string[]) {
 		const m = matched[1];
 		if (m) { // not space
 			if (!matched[2]) { // not comment
