@@ -1,5 +1,5 @@
-import run from './chap9/ClassInterpreter';
+import run from './chap10/ArrayRunner';
 
-const main = async () => await run('./scripts/9.stone');
+const main = async () => await run('./scripts/10.stone');
 
 main();
