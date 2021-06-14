@@ -29,6 +29,7 @@ npm run inspect // 将 "Debugger listening on" 的地址去掉 ws 用 chrome 打
 - chap7-1: 函数
 - chap7-2: 闭包
 - chap8: 原生方法
+- chap9: 类
 
 ## 参考
 

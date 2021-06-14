@@ -1,5 +1,5 @@
-import run from './chap8/NativeInterpreter';
+import run from './chap9/ClassInterpreter';
 
-const main = async () => await run('./scripts/8.stone');
+const main = async () => await run('./scripts/9.stone');
 
 main();
