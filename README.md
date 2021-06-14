@@ -35,6 +35,7 @@ npm run inspect // 将 "Debugger listening on" 的地址去掉 ws 用 chrome 打
 - chap12-1: 类属性和方法优化
 - chap12-2: 类的内联缓存
 - chap13: 字节码
+- chap14-1: 类型检查
 
 ## 参考
 
