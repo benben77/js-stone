@@ -1,5 +1,5 @@
-import run from './chap10/ArrayRunner';
+import run from './chap11/EnvRunner';
 
-const main = async () => await run('./scripts/10.stone');
+const main = async () => await run('./scripts/11.stone');
 
 main();
