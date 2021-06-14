@@ -1,5 +1,5 @@
-import run from './chap12/InlineRunner';
+import run from './chap13/VmRunner';
 
-const main = async () => await run('./scripts/12-2.stone');
+const main = async () => await run('./scripts/13.stone');
 
 main();
