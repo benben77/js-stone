@@ -32,6 +32,7 @@ npm run inspect // 将 "Debugger listening on" 的地址去掉 ws 用 chrome 打
 - chap9: 类
 - chap10: 数组
 - chap11: 用数组优化变量存取
+- chap12-1: 类属性和方法优化
 
 ## 参考
 

@@ -1,5 +1,5 @@
-import run from './chap11/EnvRunner';
+import run from './chap12/ObjOptRunner';
 
-const main = async () => await run('./scripts/11.stone');
+const main = async () => await run('./scripts/12-1.stone');
 
 main();
